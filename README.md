@@ -7,9 +7,9 @@ In support of new code explorers, we have set up a project so that everyone can 
 In your attempt to use this project to test your new GitHub skills, you should follow the instructions below:
 
 ```sh
-$ git clone https://github.com/WebReadyProjects/github-sandbox mydoc
+$ git clone https://github.com/wr-projects/github-sandbox
 
-cd mydoc/sandbox
+cd github-sandbox/sandbox
 ```
 
 You just have to create a file, an image, whatever...
